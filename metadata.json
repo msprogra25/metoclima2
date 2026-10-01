@@ -1,0 +1,11 @@
+{
+  "name": "MeteoAlerta - Monitoramento e Alertas Meteorológicos",
+  "description": "Sistema de monitoramento em tempo real de tempestades e inundações, trajetórias interativas de perigos, alertas geolocalizados, recomendações de emergência e histórico com gráficos de tendências climáticas.",
+  "requestFramePermissions": [
+    "geolocation",
+    "notifications"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
